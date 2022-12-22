@@ -1,3 +1,3 @@
 # panda-vote
 
-https://github.com/valeryzhvalevski/panda-vote/index.html
+https://valeryzhvalevski.github.io/panda-vote/index.html
